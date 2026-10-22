@@ -95,4 +95,11 @@ GitHub: [kavithask448-beep](https://github.com/kavithask448-beep)
 ## 📸 Application Screenshot
 
 ![Karnataka AI Travel Planner Home Page](home.png)
+## Live Demo
+
+## Live Demo
+
+Try the Karnataka AI Travel Planner here:
+
+[Open Karnataka AI Travel Planner](https://karnataka-travel-frontend.onrender.com)
 
