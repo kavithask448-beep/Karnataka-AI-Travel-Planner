@@ -91,3 +91,8 @@ API keys and environment files must remain private. Configure environment variab
 **Kavitha SK**
 
 GitHub: [kavithask448-beep](https://github.com/kavithask448-beep)
+
+## 📸 Application Screenshot
+
+![Karnataka AI Travel Planner Home Page](home.png)
+
