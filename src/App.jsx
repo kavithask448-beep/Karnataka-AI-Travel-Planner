@@ -2,7 +2,7 @@
 import { useState } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:3000";
+const API_URL = "https://karnataka-travel-api.onrender.com";
 
 const DISTRICTS = [
   "Bagalkot", "Ballari", "Belagavi", "Bengaluru Rural",
