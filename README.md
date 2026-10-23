@@ -1,7 +1,8 @@
+## 🎯 Problem Statement
 
-# Karnataka AI Travel Planner 🧭
+**Problem Statement 06: AI Travel Planner for Karnataka**
 
-An AI-powered travel planning application that helps users explore Karnataka, discover tourist destinations and hidden gems, plan day-by-day trips, and estimate travel expenses.
+An AI-powered application that helps travellers discover tourist destinations and hidden gems across Karnataka, plan day-by-day trips, and estimate travel expenses.
 
 ## ✨ Features
 
