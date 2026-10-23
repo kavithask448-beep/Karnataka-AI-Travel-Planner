@@ -43,12 +43,6 @@ cd Karnataka-AI-Travel-Planner
 npm install
 ```
 
-Install the backend dependencies too if your `package.json` does not already include them:
-
-```bash
-npm install express cors dotenv groq-sdk
-```
-
 ### 3. Configure the API key
 
 Create a `.env` file in the project root and add your own Groq API key:
